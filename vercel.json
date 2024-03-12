@@ -3,7 +3,7 @@
   "name": "Chat?",
   "builds": [
     {
-      "src": "./index.py",
+      "src": "./chat.py",
       "use": "@vercel/python"
     }
   ],
