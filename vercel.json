@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "name": "Chat?",
+  "name": "Chat",
   "builds": [
     {
-      "src": "./chat.py",
+      "src": "./index.py",
       "use": "@vercel/python"
     }
   ],
